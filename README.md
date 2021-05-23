@@ -6,7 +6,8 @@
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [ci/cd](https://github.com/401-repos/caps/actions)
+- [Pull Request](https://github.com/401-repos/caps/pull/1)
 
 ### Setup
 
